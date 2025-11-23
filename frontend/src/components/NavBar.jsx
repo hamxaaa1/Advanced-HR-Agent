@@ -11,7 +11,6 @@ export default function NavBar() {
     { name: "Home", path: "/" },
     { name: "Apply Leave", path: "/leave" },
     { name: "Chatbot", path: "/chat" },
-    { name: "Dashboard", path: "/dashboard" }
   ];
 
   return (
